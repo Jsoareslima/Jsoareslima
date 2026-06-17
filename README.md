@@ -41,4 +41,4 @@ If I can't explain it, it doesn't count.
 
 *Memory is an excellent servant, but a terrible master.*
 
-![](miku.png)
+![](Miku.png)
