@@ -32,10 +32,11 @@ If I can't explain it, it doesn't count.
 
 ## 🗣️ What languages do I speak?
 
-🇧🇷 Portuguese — native
-🇺🇸 English — self-taught, like everything else
+🇧🇷 Portuguese -> native
 
----
-And here goes a phrase that defines me:
+🇺🇸 English -> self-taught, like everything else
+
+##
+✍️ And here goes a phrase that defines me:
 
 *Memory is an excellent servant, but a terrible master.*
