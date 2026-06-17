@@ -35,7 +35,7 @@ If I can't explain it, it doesn't count.
 
 🇧🇷 Portuguese -> native
 
-🇺🇸 English -> self-taught, like everything else
+🇺🇸 English -> A work in progress, just like everything else
 
 ##
 ✍️ And here goes a phrase that defines me:
