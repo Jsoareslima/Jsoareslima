@@ -1,3 +1,4 @@
+![TY](Miku.png)
 # Hey, I'm Victor 👋
 
 I'm a self-taught developer, at least for now, who takes learning seriously.
@@ -40,5 +41,3 @@ If I can't explain it, it doesn't count.
 ✍️ And here goes a phrase that defines me:
 
 *Memory is an excellent servant, but a terrible master.*
-
-![](Miku.png)
