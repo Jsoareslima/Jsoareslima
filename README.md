@@ -40,3 +40,5 @@ If I can't explain it, it doesn't count.
 ✍️ And here goes a phrase that defines me:
 
 *Memory is an excellent servant, but a terrible master.*
+
+![](miku.png)
