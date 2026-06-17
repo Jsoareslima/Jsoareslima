@@ -1,4 +1,4 @@
-![](Assets/Miku.png)
+![]()
 # Hey, I'm Victor 👋
 
 I'm a self-taught developer, at least for now, who takes learning seriously.
