@@ -10,7 +10,7 @@ And honestly? I love 🤩 coding! But I only list what I've genuinely studied. N
 
 | Tool / Tech | Level |
 |-------------|-------|
-| 🐍 Python | Actively studying — my main focus right now |
+| 🐍 Python | Actively studying, my main focus right now |
 | 🧩 Programming Logic | Studied with some depth |
 | 🐬 MySQL | Studied with some depth |
 | 🎨 Figma | Studied with some depth |
