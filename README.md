@@ -1,5 +1,3 @@
-# Victor
-
 Software Engineering student building strong foundations for backend-oriented development.
 
 > *Memory is an excellent servant, but a terrible master.*
