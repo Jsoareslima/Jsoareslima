@@ -1,4 +1,4 @@
-# John Victor
+# Victor
 
 Software Engineering student building strong foundations for backend-oriented development.
 
